@@ -86,9 +86,9 @@ strong {
     color: #000;
 }
 
-image-container {
-    max-width: 800;
-    height: auto;
+.image-container {
+    max-width: 300;
+    height: 300;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
