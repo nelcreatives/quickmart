@@ -85,7 +85,8 @@ p {
 strong {
     color: #000;
 }
-img src {
+
+image-container {
     max-width: auto;
     height: auto;
     border-radius: 10px;
